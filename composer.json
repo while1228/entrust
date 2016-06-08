@@ -1,0 +1,21 @@
+{
+    "name": "while1228/entrust",
+    "description": "laravel 5 entrust builde permission data by route",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+    {
+        "name": "Bernie Yang",
+        "email": "while1228@qq.com"
+    }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "zizaco/entrust": "5.2.x-dev"
+    },
+    "autoload":{
+        "classmap":[
+            "src/"
+            ]   
+    }
+}
